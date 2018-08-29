@@ -1,0 +1,2 @@
+/* checkThat v0.1 */
+.checkthat{background:#114085;cursor:pointer;display:inline-block;height:20px;text-align:center;vertical-align:middle;width:20px}.checkthat-input,.checkthat-input:not(:checked)+.checkthat-icon{display:none}.checkthat-checkbox{border-radius:0}.checkthat-radio{border-radius:50%}.checkthat-icon{color:#FEFFFF;font-size:13px;vertical-align:middle}
