@@ -1,0 +1,31 @@
+.checkthat {
+	background:#114085;
+	cursor:pointer;
+	display:inline-block;
+	height:20px;
+	text-align:center;
+	vertical-align:middle;
+	width:20px;
+}
+
+.checkthat-checkbox {
+	border-radius:0;
+}
+
+.checkthat-radio {
+	border-radius:50%;
+}
+
+.checkthat-input {
+	display:none;
+}
+
+.checkthat-icon {
+	color:#FEFFFF;
+	font-size:13px;
+	vertical-align: middle;
+}
+
+.checkthat-input:not(:checked) + .checkthat-icon {
+	display:none;
+}
