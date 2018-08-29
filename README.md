@@ -7,8 +7,8 @@
 ## Quick start
 
 ```html
-<link rel="stylesheet" href="path-to-select-mania/select-mania.css" />
-<script type="text/javascript" src="path-to-select-mania/select-mania.js"></script>
+<link rel="stylesheet" href="checkthat.min.css" />
+<script type="text/javascript" src="checkthat.min.js"></script>
 ```
 
 ```javascript
