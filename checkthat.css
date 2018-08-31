@@ -23,7 +23,7 @@
 .checkthat-icon {
 	color:#FEFFFF;
 	font-size:13px;
-	vertical-align: middle;
+	line-height:20px;
 }
 
 .checkthat-input:not(:checked) + .checkthat-icon {
