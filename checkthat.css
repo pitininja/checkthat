@@ -1,4 +1,4 @@
-.checkthat {
+div.checkthat {
 	background:#114085;
 	cursor:pointer;
 	display:inline-block;
@@ -8,24 +8,24 @@
 	width:20px;
 }
 
-.checkthat-checkbox {
+div.checkthat-checkbox {
 	border-radius:0;
 }
 
-.checkthat-radio {
+div.checkthat-radio {
 	border-radius:50%;
 }
 
-.checkthat-input {
+input.checkthat-input {
 	display:none;
 }
 
-.checkthat-icon {
+i.checkthat-icon {
 	color:#FEFFFF;
 	font-size:13px;
 	line-height:20px;
 }
 
-.checkthat-input:not(:checked) + .checkthat-icon {
+input.checkthat-input:not(:checked) + i.checkthat-icon {
 	display:none;
 }
